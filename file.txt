@@ -1,2 +1,2 @@
-"Initial content""Third update after revert" 
+"Initial content"
 "Second update after revert" 
